@@ -2,12 +2,12 @@
 The setup I use for my obsidian vault, with my themes, fonts (needs installation), and CSS Snippets.
 
 ## Credit:
-Credit goes to Cyan Voxel for the following CSS Snippets!
-- Colored Sidebar Items
+Credit goes to [CyanVoxel](https://github.com/CyanVoxel) for the following CSS Snippets!
+- [Colored Sidebar Items](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar)
 - CyanVoxel's General Tweaks
-- Daily Note Themes
+- [Daily Note Themes](https://github.com/CyanVoxel/Obsidian-Daily-Themes)
 
-Cyan Voxel is also responsible for the Daily Note Template.
+[CyanVoxel](https://github.com/CyanVoxel) is also responsible for the [Daily Note Template](https://github.com/CyanVoxel/Obsidian-Daily-Themes).
 
 ## Extras:
 The font I use for my Interface font, Text font, and Monospace font are all [JetBrains Mono](https://www.jetbrains.com/lp/mono/). This font, when installed on either Mac or Windows, will also apply to the Note Title, and all subheadings.
