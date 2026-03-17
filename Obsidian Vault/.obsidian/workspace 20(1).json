@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "8b2cb7b828d9b5f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "72b4354fce3ce051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c7f920d6cc1b2ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Science/Physics/Magnetism/Electromagnetism.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electromagnetism"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8978c039264b59d",
+    "type": "split",
+    "children": [
+      {
+        "id": "46b5e0d1cb3f6177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96d102dd920683f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37108d3352dd1052",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "41270329d322148c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7202cef36504917",
+    "type": "split",
+    "children": [
+      {
+        "id": "18f703077d41b4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6034a004b94e7b34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/Religion and Philosophy/Christianity/AW - Assessment - Monday 25th November.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AW - Assessment - Monday 25th November"
+            }
+          },
+          {
+            "id": "57e8a1997321b222",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/Religion and Philosophy/Christianity/AW - Assessment - Monday 25th November.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AW - Assessment - Monday 25th November"
+            }
+          },
+          {
+            "id": "db61919266a1cc11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eec5d332d91c734a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/Religion and Philosophy/Christianity/AW - Assessment - Monday 25th November.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AW - Assessment - Monday 25th November"
+            }
+          },
+          {
+            "id": "9b64568b4194e843",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "bmo-chatbot:BMO Chatbot": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8c7f920d6cc1b2ed",
+  "lastOpenFiles": [
+    "School/Science/Physics/Magnetism/Magnetism.md",
+    "School/Science/Physics/Magnetism/Electromagnetism.md",
+    "School/Science/Physics/Magnetism/Magnetism 22(1).md",
+    "School/Science/Physics/Magnetism/Magnetism 23.md",
+    "Daily Notes/27-11-2024.md",
+    "School/Science/Physics/Magnetism/Magnetism 20(1).md",
+    "! Inbox/! To Do List.md",
+    "! Inbox/School Wifi.md",
+    "School/Science/Physics/Magnetism/Magnetism 9(1).md",
+    "School/English/The Curios Incident/AW - Assessment - Tuesday 12th November.md",
+    "School/English/The Curios Incident/CW - Assessment Preparation - Friday 8th November.md",
+    "School/English/The Curios Incident/CW - Chapters 173-179 Christopher's Journey - Tuesday 22nd October.md",
+    "School/English/The Curios Incident/CW - Creative Writing - Friday 25th October.md",
+    "School/English/The Curios Incident/CW - Creative Writing - Tuesday 15th October.md",
+    "School/English/The Curios Incident/CW - Father's Reaction - Friday 18th October.md",
+    "School/English/The Curios Incident/CW - Mother's Letters - Wednesday 16th October.md",
+    "School/English/The Curios Incident/CW - The Journey - Wednesday 23rd October.md",
+    "School/English/The Curios Incident/CW - Train Journey - Wednesday 6th November.md",
+    "School/English/Poetry/CW - After the Formalities - Friday 15th November.md",
+    "School/English/Poetry/CW - Backwards - Tuesday 19th November.md",
+    "School/English/Poetry/CW - Poetry Introduction - Wednesday 13th November.md",
+    "School/English/Poetry/CW - Practice Bridge Assessment - Tuesday 26th November.md",
+    "School/Science/Biology/CW - Mitosis - Wednesday 27th November.md",
+    "School/History/AW - End of Tsardom Assessment - Tuesday 26th November.md",
+    "Miscellaneous/Speech.md",
+    "School/Religion and Philosophy/Christianity/AW - Assessment - Monday 25th November.md"
+  ]
+}

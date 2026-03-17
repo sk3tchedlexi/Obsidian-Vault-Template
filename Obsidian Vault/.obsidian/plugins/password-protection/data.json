@@ -1,0 +1,14 @@
+{
+  "protectedPath": "/",
+  "addedProtectedPath": [
+    "01 - Daily Notes",
+    "02 - Field Notes"
+  ],
+  "protectEnabled": false,
+  "password": "*l_s[1s0ip_PPNPOO",
+  "lang": "auto",
+  "autoLockInterval": 2,
+  "pwdHintQuestion": "Authorization Requir",
+  "isLastVerifyPasswordCorrect": false,
+  "timeOnUnload": 0
+}

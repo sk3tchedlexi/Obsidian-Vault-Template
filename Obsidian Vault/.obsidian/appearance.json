@@ -1,0 +1,16 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Light & Bright",
+  "accentColor": "#db5cf5",
+  "monospaceFontFamily": "JetBrains Mono,JetBrains Mono NL",
+  "textFontFamily": "JetBrains Mono,JetBrains Mono NL",
+  "interfaceFontFamily": "JetBrains Mono,JetBrains Mono NL",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes",
+    "heading-fonts"
+  ],
+  "nativeMenus": false
+}
