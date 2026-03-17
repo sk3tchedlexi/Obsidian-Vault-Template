@@ -1,4 +1,4 @@
-# obsidian-vault-template
+# Obsidian-Vault-Template
 The setup I use for my obsidian vault, with my themes, fonts (needs installation), and CSS Snippets.
 
 ## Credit:
